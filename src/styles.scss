@@ -1,0 +1,39 @@
+// Rota css fonts
+@font-face {
+    font-family: 'rotablack';
+    src: url('../src/assets/Rota/rota-black-webfont.woff2') format('woff2'),
+         url('../src/assets/Rota/rota-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'rotabold';
+    src: url('../src/assets/Rota/rota-bold-webfont.woff2') format('woff2'),
+         url('../src/assets/Rota/rota-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'rotamedium';
+    src: url('../src/assets/Rota/rota-medium-webfont.woff2') format('woff2'),
+         url('../src/assets/Rota/rota-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'rotaregular';
+    src: url('../src/assets/Rota/rota-regular-webfont.woff2') format('woff2'),
+         url('../src/assets/Rota/rota-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    background-color: #f6f6f6;
+    font-family: 'rotabold';
+}
+
